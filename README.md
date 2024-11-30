@@ -7,7 +7,7 @@ The plan is to update the repo when these tools make new releases, so you automa
 
 ### Current packages available
 
-Currently the list is somewhat small, but suggestions are welcome! Feel free to file an issue at https://github.com/ethanhs/apt.cli.rs
+Currently the list is somewhat small, but suggestions are welcome! Feel free to file an issue at https://github.com/emmatyping/apt.cli.rs
 
 - [bat](https://github.com/sharkdp/bat)
 - [delta](https://github.com/dandavison/delta)

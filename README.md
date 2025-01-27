@@ -13,7 +13,8 @@ Currently the list is somewhat small, but suggestions are welcome! Feel free to 
 - [delta](https://github.com/dandavison/delta)
 - [dust](https://github.com/bootandy/dust)
 - [fd](https://github.com/sharkdp/fd)
-- [fselect](https://github.com/jhspetersson/fselect)
+- ~~[fselect](https://github.com/jhspetersson/fselect)~~ (Disabled due to no new deb packages)
+- [hanko](https://github.com/SRv6d/hanko)
 - [hexyl](https://github.com/sharkdp/hexyl)
 - [hyperfine](https://github.com/sharkdp/hyperfine)
 - [lsd](https://github.com/Peltoche/lsd)
@@ -40,3 +41,4 @@ If you want to find the `Release` or `*.deb` files yourself, they are available 
 [pool](https://apt.cli.rs/pool/)
 
 [dists](https://apt.cli.rs/dists/)
+

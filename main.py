@@ -1,3 +1,9 @@
+"""
+apt-repo-updater: Update an APT repository based on releases pulled from a Github repository.
+
+Requires PyGithub
+"""
+
 from github import Github
 import os
 import re
